@@ -6,6 +6,8 @@ A simple web tool to create html docs under git from structured markdown files.
 I use it to create Drupal manuals based on structure of 
 [theodorosploumis/drupal-manual](https://github.com/theodorosploumis/drupal-manual).
 
+![](css/assets/logo.svg)
+
 ## Features
 - One page docs
 - HTML default output
