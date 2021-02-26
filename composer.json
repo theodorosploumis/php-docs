@@ -1,0 +1,18 @@
+{
+    "name": "tplcom/php-docs",
+    "description": "One page Documantation generator with php",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "TheodorosPloumis",
+            "email": "me@theodorosploumis.com"
+        }
+    ],
+    "require": {
+        "spatie/yaml-front-matter": "^2.0",
+        "league/commonmark": "^1.4",
+        "dompdf/dompdf": "^0.8.6",
+        "ext-dom": "*"
+    }
+}

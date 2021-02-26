@@ -1,0 +1,11 @@
+<?php
+
+GLOBAL $settings;
+
+$settings['title'] = "Website Documentation";
+$settings['project_name'] = "My Project Name";
+$settings['base_url'] = "https://www.example.com";
+$settings['logo'] = "/css/assets/logo.png";
+$settings['created'] = "2020-05-15";
+$settings['author'] = "Firstname Lastname";
+$settings['owner'] = "Customer Name or Company";
