@@ -6,8 +6,6 @@ A simple web tool to create html docs under git from structured markdown files.
 I use it to create Drupal manuals based on structure of 
 [theodorosploumis/drupal-manual](https://github.com/theodorosploumis/drupal-manual).
 
-![](css/assets/logo.svg)
-
 ## Features
 - One page docs
 - HTML default output
@@ -46,6 +44,11 @@ cp settings.php.example settings.php
 composer install
 php -S localhost:4777
 ```
+
+## See also
+
+- [Drupal.org - User Guide project (asciidoc files)](https://www.drupal.org/project/user_guide)
+- [Drupal.org - User Guide PDF](https://www.drupal.org/docs/understanding-drupal/user-guide-e-book-downloads)
 
 ## ToDo
 
